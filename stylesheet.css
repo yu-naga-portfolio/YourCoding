@@ -410,6 +410,12 @@ header{
         background: none;
     }
 
+    .container_top{
+        max-width: none;
+        padding: 22px 22px 0 22px;
+        box-sizing: border-box;
+    }
+
     .top-left{
         width: 100%;
         padding-left: 0;
